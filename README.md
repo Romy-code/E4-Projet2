@@ -35,9 +35,9 @@ Nous utiliserons  pour concevoir le site web :
 
 ## Diagramme UML
 
-```
+
 ![alt text](https://github.com/Romy-code/E4-Projet2/blob/bb0d598ef1be0963878cd4e9b76625458e807cd7/casUtilisationProjet2.png)
-```
+
 
 ## Mise en page
 
